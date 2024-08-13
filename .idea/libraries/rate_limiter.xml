@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="rate_limiter" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/rate_limiter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/rate_limiter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/rate_limiter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/rate_limiter/lib" />
+    </SOURCES>
+  </library>
+</component>

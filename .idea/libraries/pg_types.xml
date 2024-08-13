@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="pg_types" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/pg_types/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/pg_types/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/consolidated" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/pg_types/src" />
+      <root url="file://$PROJECT_DIR$/deps/pg_types/src" />
+    </SOURCES>
+  </library>
+</component>
