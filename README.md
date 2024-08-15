@@ -8,7 +8,4 @@ Cases where arithmetic operations produce a floating number, the banker's roundi
 is used to round to the nearest integer: https://rounding.to/understanding-the-bankers-rounding
 
 ## Why `erlmoney` 😊??
-Well, Erlangers know; it's Elixir with Erlang style naming.
-
-
-*This is used at scale in production at Monime.*
+Well, Erlangers know; it's Elixir with Erlang style naming, the `erl` prefix.
